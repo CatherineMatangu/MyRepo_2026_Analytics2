@@ -96,7 +96,7 @@ st.plotly_chart(fig_pair, use_container_width=True)
 
 # Footer
 st.markdown("---")
-st.markdown("Built using Streamlit")
+st.markdown("Built by CatherineMatangu")
 
 #In the terminal, run
 #streamlit run script.py
